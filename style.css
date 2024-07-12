@@ -1,0 +1,30 @@
+body {
+    background-color: #cfbfbf;
+  }
+  
+  #container {
+    background-color: #edafaf;
+    border: 5px solid whitesmoke;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+    border-radius: 24px;
+  }
+  p {
+    color: black;
+    font-size: 24px;
+    font-family: "Young Serif", serif;
+  }
+  #btn {
+    margin: 25px auto auto 5px;
+    font-family: "Young Serif", serif;
+    height: 30px;
+    border-radius: 5px;
+  }
+  #userInput{
+    height: 24px;
+    border: 2px solid black;
+    border-radius: 8px;
+  }
+  
